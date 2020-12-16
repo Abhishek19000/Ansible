@@ -3,7 +3,7 @@
 
 ## Before following the below steps one should have ansible and sshpass software installed on the controller node.
 
-1. Keep the required software and files in the given folder.
+1. Keep the required software and files in the given folder of controller node.
 
 2. Copy the hdfs-site.xml and core-site.xml in /namenode directory of controller node from namenode file of this repository.
 
