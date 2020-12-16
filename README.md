@@ -1,8 +1,7 @@
-# Ansible
 
 # Configuring Hadoop and starting cluster services using Ansible Playbook
 
-# Before following the below steps one should have ansible and sshpass software installed on the controller node.
+## Before following the below steps one should have ansible and sshpass software installed on the controller node.
 
 1. Keep the required software and files in the given folder.
 
